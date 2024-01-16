@@ -1,0 +1,22 @@
+.card {
+    padding: 1rem !important;
+    width: 20rem !important;
+}
+
+.course-item a {
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: white;
+    background: #292929;
+}
+
+.course-item a:hover,
+.course-item a:active {
+    background: #ffd900;
+}
+
+.course-item {
+    margin: 10px;
+}
