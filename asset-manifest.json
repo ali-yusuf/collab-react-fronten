@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/collab-react-fronten/static/css/main.e0ca7b76.css",
+    "main.js": "/collab-react-fronten/static/js/main.9ab4f5bf.js",
+    "static/js/787.c0718f5a.chunk.js": "/collab-react-fronten/static/js/787.c0718f5a.chunk.js",
+    "index.html": "/collab-react-fronten/index.html",
+    "main.e0ca7b76.css.map": "/collab-react-fronten/static/css/main.e0ca7b76.css.map",
+    "main.9ab4f5bf.js.map": "/collab-react-fronten/static/js/main.9ab4f5bf.js.map",
+    "787.c0718f5a.chunk.js.map": "/collab-react-fronten/static/js/787.c0718f5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0ca7b76.css",
+    "static/js/main.9ab4f5bf.js"
+  ]
+}
