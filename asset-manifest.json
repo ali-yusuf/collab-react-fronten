@@ -1,15 +1,19 @@
 {
   "files": {
     "main.css": "/collab-react-fronten/static/css/main.e0ca7b76.css",
-    "main.js": "/collab-react-fronten/static/js/main.9ab4f5bf.js",
+    "main.js": "/collab-react-fronten/static/js/main.a4850442.js",
     "static/js/787.c0718f5a.chunk.js": "/collab-react-fronten/static/js/787.c0718f5a.chunk.js",
+    "static/media/channellogo.jpg": "/collab-react-fronten/static/media/channellogo.919cb0d0094886b0eb06.jpg",
+    "static/media/h1_hero1.jpg.webp": "/collab-react-fronten/static/media/h1_hero1.jpg.5442faea594a227af358.webp",
+    "static/media/instructor.webp": "/collab-react-fronten/static/media/instructor.52c727d0cf616cdbfea3.webp",
+    "static/media/python.jpg": "/collab-react-fronten/static/media/python.501119c784e9c15f5139.jpg",
     "index.html": "/collab-react-fronten/index.html",
     "main.e0ca7b76.css.map": "/collab-react-fronten/static/css/main.e0ca7b76.css.map",
-    "main.9ab4f5bf.js.map": "/collab-react-fronten/static/js/main.9ab4f5bf.js.map",
+    "main.a4850442.js.map": "/collab-react-fronten/static/js/main.a4850442.js.map",
     "787.c0718f5a.chunk.js.map": "/collab-react-fronten/static/js/787.c0718f5a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0ca7b76.css",
-    "static/js/main.9ab4f5bf.js"
+    "static/js/main.a4850442.js"
   ]
 }
