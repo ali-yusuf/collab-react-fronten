@@ -2,6 +2,7 @@
 import './Home.css'
 import { useState } from 'react';
 import Courses from './Courses';
+import hero from '../../assets/h1_hero1.jpg.webp';
 const Home = props => {
     const [searchQuery, setSearchQuery] = useState('');
     const handleSearch = () => {
@@ -28,7 +29,7 @@ const Home = props => {
 <span><input type='text' placeholder='What do you want to learn ?'className='custom-input' value={searchQuery} onChange= {(e) => {setSearchQuery(e.target.value)}}/><button className='custom-button' onClick={handleSearch}>Search</button></span>
    </div>
    <div className="col-12 col-md-6">
-    <img className="hero-image"src="/assets/h1_hero1.jpg.webp" alt="hero"/>
+    <img className="hero-image"src={hero} alt="hero"/>
    </div>
    </div>
    <div className='row'>

@@ -1,9 +1,10 @@
 import CourseList from "../components/CourseList";
 import { useParams } from "react-router-dom";
+import python from '../../assets/python.jpg'
 const Courses = () => {
 const COURSES = [{
     id: 'c1',
-    image: '/assets/python.jpg',
+    image: python ,
     title: 'Basics of Python',
     course: 'python',
     fee: 760,
@@ -12,7 +13,7 @@ const COURSES = [{
 },
 {
     id: 'c2',
-    image: '/assets/python.jpg',
+    image: python,
     title: 'Basics of Java',
     course: 'java',
     fee: 760,
@@ -21,7 +22,7 @@ const COURSES = [{
 },
 {
     id: 'c3',
-    image: '/assets/python.jpg',
+    image: python,
     title: 'Basics of C',
     course: 'c',
     fee: 760,
@@ -30,7 +31,7 @@ const COURSES = [{
 },
 {
     id: 'c4',
-    image: '/assets/python.jpg',
+    image: python,
     title: 'Basics of Python',
     course: 'javascript',
     fee: 760,
@@ -39,7 +40,7 @@ const COURSES = [{
 },
 {
     id: 'c5',
-    image: '/assets/python.jpg',
+    image: python,
     title: 'Basics of Python',
     course: 'css',
     fee: 760,
@@ -48,7 +49,7 @@ const COURSES = [{
 },
 {
     id: 'c6',
-    image: '/assets/python.jpg',
+    image: python,
     title: 'Basics of Python',
     course: 'html',
     fee: 760,
