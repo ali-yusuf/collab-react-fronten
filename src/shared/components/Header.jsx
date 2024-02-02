@@ -3,6 +3,7 @@ import './Header.css'
 import { NavLink } from 'react-router-dom';
 import { useState, useContext } from 'react';
 import { AuthContext } from '../context/auth-context';
+import logo from '../../assets/channellogo.jpg'
 const Header = () => {
   const auth = useContext(AuthContext);
   const [searchQuery, setSearchQuery] = useState('');
@@ -21,7 +22,7 @@ const Header = () => {
 
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light ps-3 pe-3" id='mainNav'>
-      <NavLink className="navbar-brand" to="/"><img src='/assets/channellogo.jpg' alt='channel logo' className='channel-logo'/></NavLink>
+      <NavLink className="navbar-brand" to="/"><img src={logo} alt='channel logo' className='channel-logo'/></NavLink>
       <span>
         <input
           type='text'
